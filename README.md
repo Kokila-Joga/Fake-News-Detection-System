@@ -18,7 +18,7 @@ A Machine Learning-based application that classifies news articles as **Fake ❌
 ## 📂 Project Structure
 
 bash
-fake-news-detection/
+fake-news-detection-system/
 │── data/
 │── model/
 │── templates/
